@@ -1,0 +1,30 @@
+.aboutus {
+	background: #fff;
+	text-align: left;
+	border-top: 2px solid #79c;
+	border-left: 2px solid #79c;
+	border-right: 2px solid #057;
+	border-bottom: 2px solid #057;
+	border-radius: 5px;
+	padding: 22px 20px;
+	margin: 15px;
+	line-height: 30px;
+}
+.aboutus h3 {
+	font-weight: 400;
+	font-style: none;
+	font-size: 24px;
+	font-family: sans serif;
+	color: #2C6881;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+.aboutus p
+{
+	font-weight: 400;
+	font-size: 18px;
+	font-family: sans serif;
+	color: #63696C;
+}

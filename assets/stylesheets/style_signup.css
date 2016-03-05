@@ -1,0 +1,31 @@
+#signupForm {
+display: table;
+padding: 15px;
+background: #79c;
+border: solid 2px black;
+margin: 15px;
+}
+
+#signupForm legend{
+font-family: sans-serif;
+font-size: 22px;
+font-weight: 400;
+}
+
+.rowForm{
+display: table-row;
+}
+
+.rowForm label {
+display: table-cell;
+padding: 5px;
+}
+
+.rowForm input{
+display: table-cell;
+padding: 5px;
+}
+
+.clickForm{
+padding: 5px;
+}

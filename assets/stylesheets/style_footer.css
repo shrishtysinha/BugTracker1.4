@@ -1,0 +1,45 @@
+.menu {
+	background-color: #fcc;
+	position: relative;
+	display: inline-block;
+}
+
+
+.menu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.menu ul li {
+	position: relative;
+	float: left;
+}
+.menu ul li a {
+	display: block;
+	border: 1px solid #fff;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	
+	color: #000;
+	background-color: #79c;
+}
+.menu ul li:hover a {
+	color: #fff;
+	background: #ccf;
+}
+.menu a {
+	width: 150px;
+}
+ .row {
+	margin-top: 0px;
+	background: #fff;
+	background: #79c;
+	background: -moz-linear-gradient(to right, #79c,#ccf);
+	background: linear-gradient(to right, #79c,#ccf);
+	padding: 44px 0 22px 0;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: sans serif;
+ }

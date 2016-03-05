@@ -1,0 +1,17 @@
+.menu {
+text-align: center;
+}
+.menu ul li {
+display: inline-block;
+list-style-type: none;
+}
+.menu ul li ul {
+display: none;
+}
+.menu ul li:hover ul{
+display:block;
+}
+.menu ul li ul li{
+position: relative;
+display: block;
+}

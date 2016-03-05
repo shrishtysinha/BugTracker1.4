@@ -1,0 +1,33 @@
+body{
+	background: url("../images/background.png");
+}
+.container{
+	max-width: 960px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background: #fff;
+	box-shadow: 10px 10px 5px grey;
+}
+.btn {
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	margin: 10px auto;
+	color: #000;
+	cursor: pointer;
+	font-weight: 400;
+	letter-spacing: 1px;	
+	border: 2px solid #057;
+	border-radius: 5px;
+	padding: 10px 30px;
+	text-decoration: none;
+}
+
+.button:hover {
+	background: #79c;
+	color: #fff;
+}

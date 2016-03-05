@@ -1,0 +1,25 @@
+.account {
+	background: #fff;
+	border-top: 2px solid #79c;
+	border-left: 2px solid #79c;
+	border-right: 2px solid #057;
+	border-bottom: 2px solid #057;
+	border-radius: 5px;
+	padding: 22px 20px;
+	margin: 15px auto; 
+	width: 800px;
+	overflow: hidden;
+}
+.account h3 {
+	color: #057;
+	font-size: 24px;
+	font-family: sans serif;
+}
+.account img {
+	border: 3px solid #000;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	float: right;
+	margin-right: 22px;
+}
